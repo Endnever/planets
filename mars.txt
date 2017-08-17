@@ -2,4 +2,9 @@ Mars is the god of war
 
 it is a red planet fourth from the sun
 more stuff
+<<<<<<< HEAD
 even more stuff
+=======
+even more stuf
+Stefan did this.
+>>>>>>> 7ed4a591419c8f5e9b24e9bc7143c0522e730c7b
